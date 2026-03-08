@@ -1,4 +1,3 @@
-# launchpulse-spaceflight-dashboard
 # LaunchPulse: Global Spaceflight Trends Dashboard
 
 LaunchPulse is an interactive Tableau dashboard that explores global rocket launch activity from 1957–2020.
